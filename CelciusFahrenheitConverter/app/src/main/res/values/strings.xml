@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Celsius Fahrenheit Converter</string>
+    <string name="error_message">Type a number!</string>
+</resources>
